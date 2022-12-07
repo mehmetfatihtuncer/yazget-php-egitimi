@@ -1,3 +1,3 @@
 <?php
-echo "deneme";
+echo "densseme";
 ?>
